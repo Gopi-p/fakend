@@ -61,7 +61,7 @@
     }
   ],
   "filteredProductsList":{
-    "combo":[9,10],
-    "alacarte":[8,11]
+    "lunch":[9,10],
+    "dinner":[8,11]
   }
 }
