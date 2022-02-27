@@ -59,5 +59,9 @@
       "total_price":"2000",
       "receiver_name":"praveen"
     }
+  ],
+  "filteredProductsList":[
+    9,
+    10
   ]
 }
