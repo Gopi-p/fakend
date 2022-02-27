@@ -60,8 +60,8 @@
       "receiver_name":"praveen"
     }
   ],
-  "filteredProductsList":[
-    9,
-    10
-  ]
+  "filteredProductsList":{
+    "combo":[9,10],
+    "alacarte":[8,11]
+  }
 }
