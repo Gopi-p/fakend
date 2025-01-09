@@ -1,67 +1,164 @@
 {
-  "subscriptionPackageDetails": [
+  "users": [
     {
-      "date": "20-2-2022",
-      "breakfastList": ["dosa", "curd rice", "rasam"],
-      "breakfastPriceList": [100, 200, 300],
-      "lunchList": ["dosa", "curd rice", "rasam"],
-      "lunchPriceList": [100, 200, 300],
-      "dinnerList": ["dosa", "curd rice", "rasam"],
-      "dinnerPriceList": [100, 200, 300]
+      "id": 1,
+      "name": "Alice Johnson",
+      "age": 25,
+      "gender": "Female",
+      "role": "Developer",
+      "address": "123 Main St, New York, NY"
     },
     {
-      "date": "21-2-2022",
-      "breakfastList": ["dosa", "curd rice", "rasam"],
-      "breakfastPriceList": [100, 200, 300],
-      "lunchList": ["dosa", "curd rice", "rasam"],
-      "lunchPriceList": [100, 200, 300],
-      "dinnerList": ["dosa", "curd rice", "rasam"],
-      "dinnerPriceList": [100, 200, 300]
+      "id": 2,
+      "name": "Bob Smith",
+      "age": 30,
+      "gender": "Male",
+      "role": "Designer",
+      "address": "456 Oak St, Los Angeles, CA"
     },
     {
-      "date": "22-2-2022",
-      "breakfastList": ["dosa", "curd rice", "rasam"],
-      "breakfastPriceList": [100, 200, 300],
-      "lunchList": ["dosa", "curd rice", "rasam"],
-      "lunchPriceList": [100, 200, 300],
-      "dinnerList": ["dosa", "curd rice", "rasam"],
-      "dinnerPriceList": [100, 200, 300]
+      "id": 3,
+      "name": "Charlie Brown",
+      "age": 28,
+      "gender": "Male",
+      "role": "Tester",
+      "address": "789 Pine St, Chicago, IL"
     },
     {
-      "date": "23-2-2022",
-      "breakfastList": ["dosa", "curd rice", "rasam"],
-      "breakfastPriceList": [100, 200, 300],
-      "lunchList": ["dosa", "curd rice", "rasam"],
-      "lunchPriceList": [100, 200, 300],
-      "dinnerList": ["dosa", "curd rice", "rasam"],
-      "dinnerPriceList": [100, 200, 300]
+      "id": 4,
+      "name": "Diana Prince",
+      "age": 32,
+      "gender": "Female",
+      "role": "Project Manager",
+      "address": "101 Maple Ave, Houston, TX"
     },
     {
-      "date": "24-2-2022",
-      "breakfastList": ["dosa", "curd rice", "rasam"],
-      "breakfastPriceList": [100, 200, 300],
-      "lunchList": ["dosa", "curd rice", "rasam"],
-      "lunchPriceList": [100, 200, 300],
-      "dinnerList": ["dosa", "curd rice", "rasam"],
-      "dinnerPriceList": [100, 200, 300]
+      "id": 5,
+      "name": "Evan Wright",
+      "age": 27,
+      "gender": "Male",
+      "role": "HR",
+      "address": "102 Elm St, Phoenix, AZ"
+    },
+    {
+      "id": 6,
+      "name": "Fiona Green",
+      "age": 24,
+      "gender": "Female",
+      "role": "Developer",
+      "address": "123 Willow Rd, Philadelphia, PA"
+    },
+    {
+      "id": 7,
+      "name": "George King",
+      "age": 29,
+      "gender": "Male",
+      "role": "Tester",
+      "address": "789 Birch Blvd, San Antonio, TX"
+    },
+    {
+      "id": 8,
+      "name": "Hannah Lee",
+      "age": 26,
+      "gender": "Female",
+      "role": "Designer",
+      "address": "456 Cypress Ln, San Diego, CA"
+    },
+    {
+      "id": 9,
+      "name": "Ian Clark",
+      "age": 35,
+      "gender": "Male",
+      "role": "Manager",
+      "address": "345 Aspen Dr, Dallas, TX"
+    },
+    {
+      "id": 10,
+      "name": "Julia Adams",
+      "age": 31,
+      "gender": "Female",
+      "role": "HR",
+      "address": "678 Cedar Ct, San Jose, CA"
+    },
+    {
+      "id": 11,
+      "name": "Kevin Brown",
+      "age": 33,
+      "gender": "Male",
+      "role": "Developer",
+      "address": "789 Oakwood Ln, Austin, TX"
+    },
+    {
+      "id": 12,
+      "name": "Lily White",
+      "age": 29,
+      "gender": "Female",
+      "role": "Tester",
+      "address": "123 Spruce St, Jacksonville, FL"
+    },
+    {
+      "id": 13,
+      "name": "Michael Green",
+      "age": 34,
+      "gender": "Male",
+      "role": "Project Manager",
+      "address": "456 Redwood Rd, Fort Worth, TX"
+    },
+    {
+      "id": 14,
+      "name": "Nina Hill",
+      "age": 22,
+      "gender": "Female",
+      "role": "Designer",
+      "address": "789 Magnolia Ln, Columbus, OH"
+    },
+    {
+      "id": 15,
+      "name": "Oscar Bell",
+      "age": 36,
+      "gender": "Male",
+      "role": "HR",
+      "address": "345 Chestnut Ave, Charlotte, NC"
+    },
+    {
+      "id": 16,
+      "name": "Paula Young",
+      "age": 28,
+      "gender": "Female",
+      "role": "Tester",
+      "address": "678 Dogwood Ln, Indianapolis, IN"
+    },
+    {
+      "id": 17,
+      "name": "Quentin Moore",
+      "age": 29,
+      "gender": "Male",
+      "role": "Developer",
+      "address": "123 Sycamore St, Seattle, WA"
+    },
+    {
+      "id": 18,
+      "name": "Rachel Ford",
+      "age": 27,
+      "gender": "Female",
+      "role": "Designer",
+      "address": "456 Maplewood Dr, Denver, CO"
+    },
+    {
+      "id": 19,
+      "name": "Sam Wilson",
+      "age": 32,
+      "gender": "Male",
+      "role": "Manager",
+      "address": "789 Evergreen Ln, Washington, DC"
+    },
+    {
+      "id": 20,
+      "name": "Tina Scott",
+      "age": 26,
+      "gender": "Female",
+      "role": "HR",
+      "address": "345 Poplar Ave, Boston, MA"
     }
-  ],
-  "userSubscriptionsList": [
-    {
-      "start_date" : "23.02.2022",
-      "end_date":"28.02.2022",
-      "total_price":"1000",
-      "receiver_name":"gopinath"
-    },
-    {
-      "start_date" : "20.02.2022",
-      "end_date":"24.02.2022",
-      "total_price":"2000",
-      "receiver_name":"praveen"
-    }
-  ],
-  "filteredProductsList":{
-    "lunch":[9,10],
-    "dinner":[8,11]
-  }
+  ]
 }
